@@ -1,1 +1,1 @@
-{"type":"GAEMaven","attributes":{},"runners":{},"builders":{"default":"maven"}}
+{"type":"GAEMaven","attributes":{},"runners":{"default":"system:/java/web/gae1914","configs":{}},"builders":{"default":"maven"}}
