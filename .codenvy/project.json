@@ -1,1 +1,1 @@
-{"type":"GAJava","attributes":{},"runners":{"default":"system:/java/web/gae1914","configs":{}},"builders":{"default":"maven"}}
+{"type":"GAEJava","attributes":{},"runners":{"default":"system:/java/web/gae1914","configs":{}},"builders":{"default":"maven"}}
